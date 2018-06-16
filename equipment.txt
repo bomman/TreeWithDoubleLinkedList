@@ -1,0 +1,11 @@
+1|Asus|laptop|1000.00|0
+2|Nvidia|videocard|200.00|1
+3|Samsung|HDD|100.00|1
+4|Intel|CPU|200.00|1
+5|Platter|HDD|2.00|3
+6|RWHead|HDD|3.00|3
+7|Actuator|HDD|0.20|3
+8|HeadArm|RWHead|0.20|6
+9|Slider|RWHead|0.22|6
+10|RWElement|RWHead|0.22|6
+11|LeadWires|RWHead|0.22|6
